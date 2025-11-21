@@ -32,3 +32,13 @@ ENV/
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
+
+
+# Buildozer / Android
+.buildozer/
+*.apk
+
+# Android Debug Bridge files
+adb.exe
+AdbWinApi.dll
+AdbWinUsbApi.dll
